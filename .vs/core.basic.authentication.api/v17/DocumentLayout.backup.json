@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Projects\\core.basic.authentication.api\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{30C197AD-6E82-4B83-AEA4-A08D1E414915}|core.basic.authentication.api\\core.basic.authentication.api.csproj|d:\\projects\\core.basic.authentication.api\\core.basic.authentication.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{30C197AD-6E82-4B83-AEA4-A08D1E414915}|core.basic.authentication.api\\core.basic.authentication.api.csproj|solutionrelative:core.basic.authentication.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{30C197AD-6E82-4B83-AEA4-A08D1E414915}|core.basic.authentication.api\\core.basic.authentication.api.csproj|d:\\projects\\core.basic.authentication.api\\core.basic.authentication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30C197AD-6E82-4B83-AEA4-A08D1E414915}|core.basic.authentication.api\\core.basic.authentication.api.csproj|solutionrelative:core.basic.authentication.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30C197AD-6E82-4B83-AEA4-A08D1E414915}|core.basic.authentication.api\\core.basic.authentication.api.csproj|d:\\projects\\core.basic.authentication.api\\core.basic.authentication.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{30C197AD-6E82-4B83-AEA4-A08D1E414915}|core.basic.authentication.api\\core.basic.authentication.api.csproj|solutionrelative:core.basic.authentication.api\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C197AD-6E82-4B83-AEA4-A08D1E414915}|core.basic.authentication.api\\core.basic.authentication.api.csproj|d:\\projects\\core.basic.authentication.api\\core.basic.authentication.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C197AD-6E82-4B83-AEA4-A08D1E414915}|core.basic.authentication.api\\core.basic.authentication.api.csproj|solutionrelative:core.basic.authentication.api\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{30C197AD-6E82-4B83-AEA4-A08D1E414915}|core.basic.authentication.api\\core.basic.authentication.api.csproj|d:\\projects\\core.basic.authentication.api\\core.basic.authentication.api\\models\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -58,7 +58,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 6,
           "Children": [
             {
               "$type": "Document",
@@ -88,7 +88,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AuthController.cs",
               "DocumentMoniker": "D:\\Projects\\core.basic.authentication.api\\core.basic.authentication.api\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "core.basic.authentication.api\\Controllers\\AuthController.cs",
@@ -140,7 +140,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Projects\\core.basic.authentication.api\\core.basic.authentication.api\\Program.cs",
               "RelativeDocumentMoniker": "core.basic.authentication.api\\Program.cs",
@@ -153,13 +153,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "D:\\Projects\\core.basic.authentication.api\\core.basic.authentication.api\\Controllers\\WeatherForecastController.cs",
               "RelativeDocumentMoniker": "core.basic.authentication.api\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "D:\\Projects\\core.basic.authentication.api\\core.basic.authentication.api\\Controllers\\WeatherForecastController.cs",
               "RelativeToolTip": "core.basic.authentication.api\\Controllers\\WeatherForecastController.cs",
-              "ViewState": "AgIAAA8AAAAAAAAAAAApwBgAAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAowBcAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-12T15:56:52.177Z",
               "EditorCaption": ""

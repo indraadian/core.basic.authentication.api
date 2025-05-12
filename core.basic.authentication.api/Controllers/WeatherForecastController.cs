@@ -1,3 +1,5 @@
+using core.basic.authentication.api.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 
 namespace core.basic.authentication.api.Controllers
@@ -19,6 +21,7 @@ namespace core.basic.authentication.api.Controllers
         }
 
         [HttpGet]
+        [Authorize]
         public IEnumerable<WeatherForecast> Get()
         {
             return Enumerable.Range(1, 5).Select(index => new WeatherForecast

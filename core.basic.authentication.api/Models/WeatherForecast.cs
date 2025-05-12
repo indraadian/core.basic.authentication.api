@@ -1,4 +1,4 @@
-namespace core.basic.authentication.api
+namespace core.basic.authentication.api.Models
 {
     public class WeatherForecast
     {
