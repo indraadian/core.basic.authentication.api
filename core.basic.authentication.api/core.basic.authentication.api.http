@@ -1,6 +1,0 @@
-@core.basic.authentication.api_HostAddress = http://localhost:5182
-
-GET {{core.basic.authentication.api_HostAddress}}/weatherforecast/
-Accept: application/json
-
-###
